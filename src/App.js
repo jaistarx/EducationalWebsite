@@ -1,6 +1,7 @@
 import React from 'react';
 import Lands from './Components/Landing/land';
 import Crs from './Components/Courses/course';
+import Foot from './Components/Footer/footerpath'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import {Router} from '@reach/router';
@@ -10,7 +11,7 @@ function App() {
     <div>
       <Router>
         <LandingPage path='/'></LandingPage>
-
+        <FooterPage path='/footer'></FooterPage>
         <CoursePage path="/course"></CoursePage>
       </Router>
     </div>
@@ -21,5 +22,8 @@ function LandingPage(){
 }
 function CoursePage(){
   return <Crs></Crs>
+}
+function FooterPage(){
+  return <Foot></Foot>
 }
 export default App;
