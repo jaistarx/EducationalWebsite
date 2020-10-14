@@ -208,7 +208,7 @@ export default function Lands() {
       
       <div className="bb">
         <div className="flexingres">
-          <img src="images\snowfall 1.png"></img>
+          <img className="house" src="images\snowfall 1.png"></img>
           <h4 className="abth">Our Residential Program</h4>
         </div>
         <div className="flexes">

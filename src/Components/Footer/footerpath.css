@@ -2,17 +2,18 @@
     color: #FFFFFF;
     background-color: #FF4747;
   }
-  .flexing {
+  .flexing1 {
     display: flex;
     justify-content: space-between;
   }
   .rightdetails {
-    text-align: right;
+    /* text-align: right; */
     width: 30%;
     padding: 2%;
   }
   .leftdetails {
     padding: 2%;
+    /* width: 40%; */
   }
   .web {
     text-align: right;
@@ -26,4 +27,10 @@
   }
   .copyright span {
     color:#3F3D56;
+  }
+
+  @media screen and (max-width:56rem){
+    .flexing1{
+      flex-direction: column;
+    }
   }

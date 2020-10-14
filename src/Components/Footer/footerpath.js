@@ -5,7 +5,7 @@ import { FaFacebook,FaTwitter,FaInstagramSquare,FaYoutube} from "react-icons/fa"
 export default function Foot() {
   return (
     <div className="outer">
-      <div className="flexing">
+      <div className="flexing1">
         <div className="leftdetails">
           <div>
             <a>About Us</a>
