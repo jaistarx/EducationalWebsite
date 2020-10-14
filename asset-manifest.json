@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EducationalWebsite/static/css/main.bcd60cb8.chunk.css",
+    "main.js": "/EducationalWebsite/static/js/main.8e9c5f23.chunk.js",
+    "main.js.map": "/EducationalWebsite/static/js/main.8e9c5f23.chunk.js.map",
+    "runtime-main.js": "/EducationalWebsite/static/js/runtime-main.0cb6a613.js",
+    "runtime-main.js.map": "/EducationalWebsite/static/js/runtime-main.0cb6a613.js.map",
+    "static/css/2.2a86faee.chunk.css": "/EducationalWebsite/static/css/2.2a86faee.chunk.css",
+    "static/js/2.57db3350.chunk.js": "/EducationalWebsite/static/js/2.57db3350.chunk.js",
+    "static/js/2.57db3350.chunk.js.map": "/EducationalWebsite/static/js/2.57db3350.chunk.js.map",
+    "index.html": "/EducationalWebsite/index.html",
+    "precache-manifest.5e3d9377ad49415d1f701c0207405d00.js": "/EducationalWebsite/precache-manifest.5e3d9377ad49415d1f701c0207405d00.js",
+    "service-worker.js": "/EducationalWebsite/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/EducationalWebsite/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.bcd60cb8.chunk.css.map": "/EducationalWebsite/static/css/main.bcd60cb8.chunk.css.map",
+    "static/js/2.57db3350.chunk.js.LICENSE.txt": "/EducationalWebsite/static/js/2.57db3350.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cb6a613.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.57db3350.chunk.js",
+    "static/css/main.bcd60cb8.chunk.css",
+    "static/js/main.8e9c5f23.chunk.js"
+  ]
+}
