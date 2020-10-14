@@ -59,7 +59,7 @@ export default function Lands() {
       {/* Services */}
       
       <div className="flexingservice">
-        <img src="images\service.png"></img>
+        <img src="images\service.png" alt="service"></img>
         <div className="hed">
           <h4>Our Services</h4>
         </div>
@@ -137,7 +137,7 @@ export default function Lands() {
       
       <div className="bb">
         <div className="flexing">
-          <img src="images\Group.png"></img>
+          <img src="images\Group.png" alt="group"></img>
           <h4 className="abth">About Us</h4>
         </div>
         <div className="flexes cnt">
@@ -162,7 +162,7 @@ export default function Lands() {
         <div className="flexes">
           <div className="downdiv">
             <div>
-              <img src="images\undraw_online_test_gba7.png"></img>
+              <img src="images\undraw_online_test_gba7.png" alt="download1"></img>
             </div>
             <div className="downtext">
               <p>
@@ -176,7 +176,7 @@ export default function Lands() {
           <div className="downdiv">
             <div>
               {" "}
-              <img src="images\undraw_learning_2q1h 1.png"></img>
+              <img src="images\undraw_learning_2q1h 1.png" alt="download2"></img>
             </div>
             <div className="downtext">
               <p>
@@ -190,7 +190,7 @@ export default function Lands() {
           <div className="downdiv">
             <div>
               {" "}
-              <img src="images\undraw_book_lover_mkck.png"></img>
+              <img src="images\undraw_book_lover_mkck.png" alt="download3"></img>
             </div>
             <div className="downtext">
               <p>
@@ -208,7 +208,7 @@ export default function Lands() {
       
       <div className="bb">
         <div className="flexingres">
-          <img className="house" src="images\snowfall 1.png"></img>
+          <img className="house" src="images\snowfall 1.png" alt="house"></img>
           <h4 className="abth">Our Residential Program</h4>
         </div>
         <div className="flexes">
@@ -229,14 +229,14 @@ export default function Lands() {
       {/* Testimonials */}
       
       <div className="flexingtest">
-        <img src="images\testimonials 1.png"></img>
+        <img src="images\testimonials 1.png" alt="test1"></img>
         <div className="hed">
           <h4>Testimonials</h4>
         </div>
       </div>
       <div className="flexes testdiv">
         <div className="test">
-          <img src="images\download (1) 1.png"></img>
+          <img src="images\download (1) 1.png " alt="test2"></img>
           <h5 className="mrinalini">Miss Mrinalini</h5>
           <p>
             something that miss will have to say about the experience with this
@@ -244,7 +244,7 @@ export default function Lands() {
           </p>
         </div>
         <div className="test">
-          <img src="images\download 1.png"></img>
+          <img src="images\download 1.png" alt="test3"></img>
           <h5 className="mrinalini">Miss Mrinalini</h5>
           <p>
             something that miss will have to say about the experience with this
@@ -252,7 +252,7 @@ export default function Lands() {
           </p>
         </div>
         <div className="test">
-          <img src="images\teaching-website 1.png"></img>
+          <img src="images\teaching-website 1.png" alt="test4"></img>
           <h5 className="mrinalini">Miss Mrinalini</h5>
           <p>
             something that miss will have to say about the experience with this

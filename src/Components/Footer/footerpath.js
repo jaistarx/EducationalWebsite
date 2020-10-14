@@ -8,22 +8,22 @@ export default function Foot() {
       <div className="flexing1">
         <div className="leftdetails">
           <div>
-            <a>About Us</a>
+            <p>About Us</p>
           </div>
           <div>
-            <a>Community Guidelines</a>
+            <p>Community Guidelines</p>
           </div>
           <div>
-            <a>Help Center</a>
+            <p>Help Center</p>
           </div>
           <div>
-            <a>Credits</a>
+            <p>Credits</p>
           </div>
           <div>
-            <a>Join our team</a>
+            <p>Join our team</p>
           </div>
           <div>
-            <a>Feedback</a>
+            <p>Feedback</p>
           </div>
         </div>
         <div className="rightdetails">

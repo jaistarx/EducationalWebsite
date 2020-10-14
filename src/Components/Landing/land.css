@@ -60,7 +60,7 @@
 .flexing {
   display: flex;
   width: 15%;
-  justify-content: start;
+  justify-content: space-between;
 }
 .flexingres {
   display: flex;
